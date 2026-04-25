@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Testno77.aternos.me",
-    "port": 21779,
+    "ip": "ipdc.bedrock.minekeep.gg",
+    "port": 19132,
     "version": "1.21.11",
     "try-creative": false
   },
